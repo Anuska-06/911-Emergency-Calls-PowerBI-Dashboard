@@ -62,7 +62,7 @@ To visualize and analyze emergency call data using Power BI, identify key trends
 
 ---
 
-## 📌 Insights & Business Goals
+##  Insights & Business Goals
 
 | Insight | Goal |
 |--------|------|
